@@ -11,9 +11,14 @@ Data science project:
 * 5. 3-layer ANN with Keras
 * Metrics used: AUC, Precision, Recall 
 
-Dataset obtained through Kaggle at: <https://www.kaggle.com/dalpozz/creditcardfraud> 
 
-## Important packages used
+## File organization
+
+* Data: folder containing credit card transactions by Kaggle <https://www.kaggle.com/dalpozz/creditcardfraud> 
+* ProgessCheck: preliminary results of proposal, EDAs, inferentail
+* FinalResults: code and graphs wrapped together in jupyterbook 
+
+## Important packages
 
 * [Sklearn]
 * [Tensorflow]
@@ -21,11 +26,14 @@ Dataset obtained through Kaggle at: <https://www.kaggle.com/dalpozz/creditcardfr
 * [statsmodel]
 * [matplotlib]
 * [seaborn]
+* [pandas]
+* [numpy]
+* [scipy]
 
 
-## Author
+## Contact
 
-* **Ginny Zhu** -- author and organizer of this repo, [contact] (https://github.com/chocolocked)
+* **Ginny** -- author and organizer of this repo, [contact] (https://github.com/chocolocked)
 
 
 ## Acknowledgments
