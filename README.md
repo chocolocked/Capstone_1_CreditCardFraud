@@ -16,7 +16,7 @@ Data science project:
 
 * Data: folder containing credit card transactions by Kaggle <https://www.kaggle.com/dalpozz/creditcardfraud> 
 * ProgressCheck: preliminary results of proposal, EDAs, inferential stats
-* FinalResults: code and graphs wrapped together in jupyterbook 
+* FinalResults: code and graphs wrapped together in jupyterbooks: Part1 for EDA and inferential stats, Part2 for predictive modeling, and a separate report
 
 ## Important packages
 
