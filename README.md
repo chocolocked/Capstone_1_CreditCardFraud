@@ -11,7 +11,7 @@ Data science project:
 * 5. 3-layer ANN with Keras
 * Metrics used: AUC, Precision, Recall 
 * Sample model results (for 3-layer ANN):  AUC 98%, Precision 93%, Recall 74%
-
+***
 ## File organization
 
 * Data: folder containing credit card transactions by Kaggle <https://www.kaggle.com/dalpozz/creditcardfraud> 
